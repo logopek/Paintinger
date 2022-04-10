@@ -1,4 +1,3 @@
-from dearpygui.demo import show_demo
 import dearpygui.dearpygui as dpg
 
 dpg.create_context()
